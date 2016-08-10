@@ -4,7 +4,7 @@ machine:
     
 test:
   override:
-    - php ./test-suite/run.php --unit-tests
+    - mvn test
 
 deployment:
   staging:
