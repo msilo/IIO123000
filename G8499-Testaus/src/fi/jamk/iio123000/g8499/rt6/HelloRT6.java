@@ -1,4 +1,4 @@
-// Test6
+// Test7
 package fi.jamk.iio123000.g8499.rt6;
 
 public class HelloRT6 {
