@@ -4,7 +4,7 @@ machine:
     
 test:
   override:
-    - mvn -f G8499-Testaus/pom.xml test
+    - mvn -f G8499-Testaus\src\fi\jamk\iio123000\g8499\rt6\ test
 
 deployment:
   staging:
