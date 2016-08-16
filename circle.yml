@@ -4,7 +4,7 @@ machine:
     
 test:
   override:
-    - mvn -f G8499-Testaus/pom.xml test
+    - mvn test
 
 deployment:
   staging:
